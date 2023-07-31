@@ -1,0 +1,18 @@
+Umum
+- Footer Nomor Telp HO
+- Footer Email HO
+
+File Index
+- Foto / Gambar
+- Keterangan untuk Civil Work
+- News & Event
+- Testimonial
+
+File About
+- Foto / Gambar
+- Management : Foto Karyawan
+- Jumlah Client, Project dan Karyawan
+
+File Career
+- Kalimat dibawah Job Opportunities
+- Kriteria pada setiap Job
